@@ -482,3 +482,23 @@ a {
 .close-pop-up-icon:hover {
   opacity: 1;
 }
+
+.button {
+  padding: 14px 20px;
+  background-color: #0040ff;
+  font-weight: 500;
+}
+
+.button.submit-button {
+  margin-top: 10px;
+}
+
+.text-field {
+  border-style: solid;
+  border-width: 0px 0px 1px;
+  border-color: #000 #000 #c6c6c6;
+}
+
+.text-field:active {
+  border-bottom-color: #9c9c9c;
+}
